@@ -1,0 +1,15 @@
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\bin\Debug\net9.0\LeerData.exe
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\bin\Debug\net9.0\LeerData.deps.json
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\bin\Debug\net9.0\LeerData.runtimeconfig.json
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\bin\Debug\net9.0\LeerData.dll
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\bin\Debug\net9.0\LeerData.pdb
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.AssemblyInfoInputs.cache
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.AssemblyInfo.cs
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.csproj.CoreCompileInputs.cache
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.sourcelink.json
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.dll
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\refint\LeerData.dll
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.pdb
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\LeerData.genruntimeconfig.cache
+C:\Users\E1505206\Documents\1er_API\NetCore\LeerData\obj\Debug\net9.0\ref\LeerData.dll
