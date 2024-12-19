@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeerData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b52b9736ba01edb75a280b97173afec7985a5561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5183ee21b6261328fbac4a9d14fbfc61bf815869")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeerData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeerData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
